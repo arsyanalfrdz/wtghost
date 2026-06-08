@@ -559,7 +559,7 @@ async def bantuan(ctx):
 # 4. MENJALANKAN BOT DAN WEBSITE
 # ==========================================
 if __name__ == '__main__':
-    if not TOKEN or TOKEN == "MTUxMzU0NTUxMjU4OTIwMTU0Mg.G6czA2.x8zL0NjC2flEgTZKDooGGkWLFhvlE_6ocDKtog":
+    if not TOKEN or TOKEN == "MTUxMzU0NTUxMjU4OTIwMTU0Mg.GWcppL.urSXyEkkRpWWYSNXwT4Z4QBymt5MZpDbiJXq-U":
         print("❌ ERROR: Token Discord belum diatur di file .env!")
     else:
         # Jalankan Flask Server di background (Thread baru)
